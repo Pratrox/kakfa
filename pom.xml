@@ -12,7 +12,7 @@
 	<artifactId>apache</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apache</name>
-	<description>Demo project for Apache Configuration</description>
+	<description>First project for Apache Configuration</description>
 	<url/>
 	<licenses>
 		<license/>
